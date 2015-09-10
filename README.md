@@ -56,3 +56,13 @@ We release whole genomes. In terms of individuals,
  * https://workbench.su92l.arvadosapi.com/projects/su92l-j7d0g-1d2se4f08r0q7ta#Data_collections
 * Trios
  * https://sites.stanford.edu/abms/content/first-data-giab-pgp-trios-ftp
+* Google
+ * https://github.com/deflaux/codelabs/blob/pgp-cgi-only/R/PlatinumGenomes-QC/Sample-Level-QC.md
+ * http://googlegenomics.readthedocs.org/en/latest/use_cases/discover_public_data/pgp_public_data.html
+
+## People Using PGP Data
+
+How and why are people using PGP data?
+
+* Wellesley PGHCI Lab
+
